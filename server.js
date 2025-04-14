@@ -83,8 +83,8 @@ app.get("/opportunities", async (req, res) => {
   try {
     const { data, error } = await supabase
       .from("opportunities")
-      .select("*");
-
+      .select("*")
+      .order("id", { ascending: true });
     if (error) {
       console.error("Error fetching opportunities:", error);
       return res.status(500).json({ error: error.message });
