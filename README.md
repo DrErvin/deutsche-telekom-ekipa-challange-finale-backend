@@ -11,8 +11,7 @@ This is the Ekipa project backend server for the Student-Company Platform, devel
 Ensure you have Node.js installed on your machine. Then, clone this repository and install dependencies:
 
 ```
-git clone https://github.com/DrErvin/Student_platform_server.git
-cd Student_platform_server
+git clone https://github.com/DrErvin/deutsche-telekom-ekipa-challange-finale-backend.git
 npm install
 
 ```
