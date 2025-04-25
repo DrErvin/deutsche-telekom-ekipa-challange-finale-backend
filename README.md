@@ -1,15 +1,6 @@
 # Ekipa Project - Student Platform (Backend)
 
-This is the backend server for the Ekipa-Student Platform, developed in collaboration with Deutsche Telekom. It provides APIs for managing user accounts, job opportunities, applications, and AI-powered smart search.
-
-### ⚠️ Important Prerequisites
-
-For this project to function correctly, you must have the following:
-
-**1. A Separate Frontend Repository**
-
-- Instructions on how to run and set up the frontend are available in its README file.
-  Frontend Repository: [Frontend Repository: Ekipa-Project](https://github.com/DrErvin/Ekipa-Project.git)
+This is the Ekipa project backend server for the Student-Company Platform, developed in collaboration with Deutsche Telekom. It provides API endpoints for managing user accounts, job opportunities, applications, and AI-powered smart search.
 
 ---
 
